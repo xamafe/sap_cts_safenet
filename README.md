@@ -1,4 +1,4 @@
-# CTS Safenet for SAP Systems
+# CTS Safenet for SAP Systems (SAP Transport Management System)
 
 An SAP system runs many batch jobs at a time. Most of them are planned periodicly and the system takes care of them. But sometimes a little bug occurs, that has to be fixed by a transport that is sent to the system. In most cases the batch reports are not built to dump at any given time. And if the program changes, while it is running, nothing can be done to prevent the dump of the program.
 So I've seen many problems with data that was halfway written. And many of the problems come up weeks or months, after the incident.
